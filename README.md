@@ -1,5 +1,8 @@
+
 # lectures
-Lessons / talks I will happen to give
+
+Latest lessons/talks I share
+
 
 ## notebooks setup
 
@@ -11,3 +14,7 @@ $ docker run --rm -it -p 8888:8888 \
     -w /home/jovyan/lectures \
     jupyter/base-notebook
 ```
+
+Then open:
+
+http://localhost:8888
